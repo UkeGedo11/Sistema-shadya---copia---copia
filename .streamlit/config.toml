@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#00F3FF"        # Quantum Cyan – brilla como un qubit en superposición
+backgroundColor = "#090415"     # Void Purple – el vacío antes del Big Bang
+secondaryBackgroundColor = "#140B2A"  # Dark Matter – profundo, misterioso, con textura implícita
+textColor = "#E2D9FF"           # Starlight – legible, suave, celestial
+font = "sans serif"
